@@ -3,11 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "browser-image-size": "^1.1.0",
     "eslint-config-react": "^1.1.7",
-    "jimp": "^0.6.0",
+    "image-size": "^0.6.3",
     "leaflet": "^1.4.0",
-    "mkdirp": "^0.5.1",
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
@@ -30,7 +28,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "devDependencies": {
-    "image-size": "^0.6.3"
-  }
+  "devDependencies": {}
 }

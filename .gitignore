@@ -60,4 +60,5 @@ typings/
 # next.js build output
 .next
 
-public/maps/
+public/tiles
+public/Maps/map.png
